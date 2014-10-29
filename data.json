@@ -1,0 +1,507 @@
+[
+    {
+        "base": "be",
+        "preterit": "was, were",
+        "past": "been"
+    },
+    {
+        "base": "bear",
+        "preterit": "bore",
+        "past": "born, borne"
+    },
+    {
+        "base": "beat",
+        "preterit": "beat",
+        "past": "beaten"
+    },
+    {
+        "base": "become",
+        "preterit": "became",
+        "past": "become"
+    },
+    {
+        "base": "begin",
+        "preterit": "began",
+        "past": "begun"
+    },
+    {
+        "base": "bite",
+        "preterit": "bit",
+        "past": "bitten"
+    },
+    {
+        "base": "bleed",
+        "preterit": "bled",
+        "past": "bled"
+    },
+    {
+        "base": "blow",
+        "preterit": "blew",
+        "past": "blown"
+    },
+    {
+        "base": "bring",
+        "preterit": "brought",
+        "past": "brought"
+    },
+    {
+        "base": "break",
+        "preterit": "broke",
+        "past": "broken"
+    },
+    {
+        "base": "broadcast",
+        "preterit": "broadcast",
+        "past": "broadcast"
+    },
+    {
+        "base": "build",
+        "preterit": "built",
+        "past": "built"
+    },
+    {
+        "base": "burn",
+        "preterit": "burnt",
+        "past": "burnt"
+    },
+    {
+        "base": "buy",
+        "preterit": "bought",
+        "past": "bought"
+    },
+    {
+        "base": "chose",
+        "preterit": "choose",
+        "past": "chosen"
+    },
+    {
+        "base": "catch",
+        "preterit": "caught",
+        "past": "caught"
+    },
+    {
+        "base": "come",
+        "preterit": "came",
+        "past": "come"
+    },
+    {
+        "base": "cost",
+        "preterit": "cost",
+        "past": "cost"
+    },
+    {
+        "base": "cut",
+        "preterit": "cut",
+        "past": "cut"
+    },
+    {
+        "base": "do",
+        "preterit": "did",
+        "past": "done"
+    },
+    {
+        "base": "draw",
+        "preterit": "drew",
+        "past": "drawn"
+    },
+    {
+        "base": "dream",
+        "preterit": "dreamt",
+        "past": "dreamt"
+    },
+    {
+        "base": "drink",
+        "preterit": "drank",
+        "past": "drunk"
+    },
+    {
+        "base": "drive",
+        "preterit": "drove",
+        "past": "driven"
+    },
+    {
+        "base": "eat",
+        "preterit": "ate",
+        "past": "eaten"
+    },
+    {
+        "base": "fall",
+        "preterit": "fell",
+        "past": "fallen"
+    },
+    {
+        "base": "feel",
+        "preterit": "felt",
+        "past": "felt"
+    },
+    {
+        "base": "fight",
+        "preterit": "fought",
+        "past": "fought"
+    },
+    {
+        "base": "find",
+        "preterit": "found",
+        "past": "found"
+    },
+    {
+        "base": "fly",
+        "preterit": "flew",
+        "past": "flown"
+    },
+    {
+        "base": "forbid",
+        "preterit": "forbade",
+        "past": "forbidden"
+    },
+    {
+        "base": "forget",
+        "preterit": "forgot",
+        "past": "forgotten"
+    },
+    {
+        "base": "freeze",
+        "preterit": "froze",
+        "past": "frozen"
+    },
+    {
+        "base": "get",
+        "preterit": "got",
+        "past": "got"
+    },
+    {
+        "base": "give",
+        "preterit": "gave",
+        "past": "given"
+    },
+    {
+        "base": "go",
+        "preterit": "went",
+        "past": "gone"
+    },
+    {
+        "base": "grow",
+        "preterit": "grew",
+        "past": "grown"
+    },
+    {
+        "base": "hang",
+        "preterit": "hung",
+        "past": "hung"
+    },
+    {
+        "base": "have",
+        "preterit": "had",
+        "past": "had"
+    },
+        {
+        "base": "hear",
+        "preterit": "heard",
+        "past": "heard"
+    },
+    {
+        "base": "hide",
+        "preterit": "hid",
+        "past": "hidden"
+    },
+    {
+        "base": "hit",
+        "preterit": "hit",
+        "past": "hit"
+    },
+    {
+        "base": "hold",
+        "preterit": "held",
+        "past": "held"
+    },
+    {
+        "base": "hurt",
+        "preterit": "hurt",
+        "past": "hurt"
+    },
+    {
+        "base": "keep",
+        "preterit": "kept",
+        "past": "kept"
+    },
+    {
+        "base": "know",
+        "preterit": "knew",
+        "past": "known"
+    },
+    {
+        "base": "lay",
+        "preterit": "laid",
+        "past": "laid"
+    },
+    {
+        "base": "lead",
+        "preterit": "led",
+        "past": "led"
+    },
+    {
+        "base": "learn",
+        "preterit": "learnt",
+        "past": "learnt"
+    },
+    {
+        "base": "leave",
+        "preterit": "left",
+        "past": "left"
+    },
+    {
+        "base": "lent",
+        "preterit": "lend",
+        "past": "lend"
+    },
+    {
+        "base": "let",
+        "preterit": "let",
+        "past": "let"
+    },
+    {
+        "base": "lie",
+        "preterit": "lay",
+        "past": "lain"
+    },
+    {
+        "base": "lose",
+        "preterit": "lost",
+        "past": "lost"
+    },
+    {
+        "base": "",
+        "preterit": "",
+        "past": ""
+    },
+    {
+        "base": "light",
+        "preterit": "lit",
+        "past": "lit"
+    },
+    {
+        "base": "make",
+        "preterit": "made",
+        "past": "made"
+    },
+    {
+        "base": "mean",
+        "preterit": "meant",
+        "past": "meant"
+    },
+    {
+        "base": "meet",
+        "preterit": "met",
+        "past": "met"
+    },
+    {
+        "base": "pay",
+        "preterit": "paid",
+        "past": "paid"
+    },
+    {
+        "base": "put",
+        "preterit": "put",
+        "past": "put"
+    },
+    {
+        "base": "read",
+        "preterit": "read",
+        "past": "read"
+    },
+    {
+        "base": "ride",
+        "preterit": "rode",
+        "past": "ridden"
+    },
+    {
+        "base": "ring",
+        "preterit": "rang",
+        "past": "rung"
+    },
+    {
+        "base": "rise",
+        "preterit": "rose",
+        "past": "risen"
+    },
+    {
+        "base": "run",
+        "preterit": "ran",
+        "past": "run"
+    },
+    {
+        "base": "say",
+        "preterit": "said",
+        "past": "said"
+    },
+    {
+        "base": "see",
+        "preterit": "saw",
+        "past": "seen"
+    },
+    {
+        "base": "sell",
+        "preterit": "sold",
+        "past": "sold"
+    },
+    {
+        "base": "send",
+        "preterit": "sent",
+        "past": "sent"
+    },
+    {
+        "base": "set",
+        "preterit": "set",
+        "past": "set"
+    },
+    {
+        "base": "shake",
+        "preterit": "shook",
+        "past": "shaken"
+    },
+    {
+        "base": "shine",
+        "preterit": "shone",
+        "past": "shone"
+    },
+    {
+        "base": "shoot",
+        "preterit": "shot",
+        "past": "shot"
+    },
+    {
+        "base": "show",
+        "preterit": "showed",
+        "past": "shown"
+    },
+    {
+        "base": "shut",
+        "preterit": "shut",
+        "past": "shut"
+    },
+    {
+        "base": "sing",
+        "preterit": "sang",
+        "past": "sung"
+    },
+    {
+        "base": "sit",
+        "preterit": "sat",
+        "past": "sat"
+    },
+    {
+        "base": "sleep",
+        "preterit": "slept",
+        "past": "slept"
+    },
+    {
+        "base": "smel",
+        "preterit": "smelt",
+        "past": "smelt"
+    },
+    {
+        "base": "speak",
+        "preterit": "spoke",
+        "past": "spoken"
+    },
+    {
+        "base": "spell",
+        "preterit": "spelt",
+        "past": "spelt"
+    },
+    {
+        "base": "spend",
+        "preterit": "spent",
+        "past": "spent"
+    },
+    {
+        "base": "spoil",
+        "preterit": "spoilt",
+        "past": "spoilt"
+    },
+    {
+        "base": "spread",
+        "preterit": "spread",
+        "past": "spread"
+    },
+    {
+        "base": "stand",
+        "preterit": "stood",
+        "past": "stood"
+    },
+    {
+        "base": "steal",
+        "preterit": "stol",
+        "past": "stolen"
+    },
+    {
+        "base": "stick",
+        "preterit": "stuck",
+        "past": "stuck"
+    },
+    {
+        "base": "sweep",
+        "preterit": "swept",
+        "past": "swept"
+    },
+    {
+        "base": "swim",
+        "preterit": "swam",
+        "past": "swum"
+    },
+    {
+        "base": "take",
+        "preterit": "took",
+        "past": "taken"
+    },
+    {
+        "base": "teach",
+        "preterit": "taught",
+        "past": "taught"
+    },
+    {
+        "base": "tear",
+        "preterit": "tore",
+        "past": "torn"
+    },
+    {
+        "base": "tell",
+        "preterit": "told",
+        "past": "told"
+    },
+    {
+        "base": "think",
+        "preterit": "thought",
+        "past": "thought"
+    },
+    {
+        "base": "throw",
+        "preterit": "threw",
+        "past": "thrown"
+    },
+    {
+        "base": "understand",
+        "preterit": "unterstood",
+        "past": "unterstood"
+    },
+    {
+        "base": "wake (up)",
+        "preterit": "woke (up)",
+        "past": "woken (up)"
+    },
+    {
+        "base": "wear",
+        "preterit": "wore",
+        "past": "worn"
+    },
+    {
+        "base": "win",
+        "preterit": "won",
+        "past": "won"
+    },
+    {
+        "base": "write",
+        "preterit": "wrote",
+        "past": "written"
+    }
+]
