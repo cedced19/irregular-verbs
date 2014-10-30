@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width">
         <link href="//cedced19.github.io/favicon.ico" rel="shortcut icon" type="image/x-icon">
         <!-- build:css styles/styles.css -->
-        <link rel="stylesheet" href="dev/styles/bootstrap.css">
+        <link rel="stylesheet" href="styles/bootstrap.css">
         <!-- endbuild -->
     </head>
     <body ng-app="IrregularVerbs" ng-controller="IrregularVerbsCtrl">
@@ -19,6 +19,7 @@
                         <th>Verb</th>
                         <th>Preterit</th>
                         <th>Past / Passive Participle</th>
+                        <th>French Translation</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -26,14 +27,15 @@
                         <td>{{verb.base}}</td>
                         <td>{{verb.preterit}}</td>
                         <td>{{verb.past}}</td>
+                        <td>{{verb.french}}</td>
                     </tr>
                 </tbody>
             </table>
         </div>
 
             <!-- build:js scripts/scripts.js -->
-            <script type="text/javascript" src="dev/scripts/angular.min.js"></script>
-            <script type="text/javascript" src="dev/scripts/app.js"></script>
+            <script type="text/javascript" src="scripts/angular.min.js"></script>
+            <script type="text/javascript" src="scripts/app.js"></script>
             <!-- endbuild -->
     </body>
 </html>

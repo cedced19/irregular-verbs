@@ -2,501 +2,607 @@
     {
         "base": "be",
         "preterit": "was, were",
-        "past": "been"
+        "past": "been",
+        "french": "être"
     },
     {
         "base": "bear",
         "preterit": "bore",
-        "past": "born, borne"
+        "past": "born, borne",
+        "french": "porter, supporter"
     },
     {
         "base": "beat",
         "preterit": "beat",
-        "past": "beaten"
+        "past": "beaten",
+        "french": "battre"
     },
     {
         "base": "become",
         "preterit": "became",
-        "past": "become"
+        "past": "become",
+        "french": "devenir"
     },
     {
         "base": "begin",
         "preterit": "began",
-        "past": "begun"
+        "past": "begun",
+        "french": "commencer"
     },
     {
         "base": "bite",
         "preterit": "bit",
-        "past": "bitten"
+        "past": "bitten",
+        "french": "mordre"
     },
     {
         "base": "bleed",
         "preterit": "bled",
-        "past": "bled"
+        "past": "bled",
+        "french": "saigner"
     },
     {
         "base": "blow",
         "preterit": "blew",
-        "past": "blown"
+        "past": "blown",
+        "french": "souffler"
     },
     {
         "base": "bring",
         "preterit": "brought",
-        "past": "brought"
+        "past": "brought",
+        "french": "apporter"
     },
     {
         "base": "break",
         "preterit": "broke",
-        "past": "broken"
+        "past": "broken",
+        "french": "casser"
     },
     {
         "base": "broadcast",
         "preterit": "broadcast",
-        "past": "broadcast"
+        "past": "broadcast",
+        "french": "diffuser, émettre"
     },
     {
         "base": "build",
         "preterit": "built",
-        "past": "built"
+        "past": "built",
+        "french": "construire"
     },
     {
         "base": "burn",
         "preterit": "burnt",
-        "past": "burnt"
+        "past": "burnt",
+        "french": "brûler"
     },
     {
         "base": "buy",
         "preterit": "bought",
-        "past": "bought"
+        "past": "bought",
+        "french": "acheter"
     },
     {
         "base": "chose",
         "preterit": "choose",
-        "past": "chosen"
+        "past": "chosen",
+        "french": "choisir"
     },
     {
         "base": "catch",
         "preterit": "caught",
-        "past": "caught"
+        "past": "caught",
+        "french": "attraper"
     },
     {
         "base": "come",
         "preterit": "came",
-        "past": "come"
+        "past": "come",
+        "french": "venir"
     },
     {
         "base": "cost",
         "preterit": "cost",
-        "past": "cost"
+        "past": "cost",
+        "french": "coûter"
     },
     {
         "base": "cut",
         "preterit": "cut",
-        "past": "cut"
+        "past": "cut",
+        "french": "couper"
     },
     {
         "base": "do",
         "preterit": "did",
-        "past": "done"
+        "past": "done",
+        "french": "faire"
     },
     {
         "base": "draw",
         "preterit": "drew",
-        "past": "drawn"
+        "past": "drawn",
+        "french": "tirer, dessiner"
     },
     {
         "base": "dream",
         "preterit": "dreamt",
-        "past": "dreamt"
+        "past": "dreamt",
+        "french": "rêver"
     },
     {
         "base": "drink",
         "preterit": "drank",
-        "past": "drunk"
+        "past": "drunk",
+        "french": "boire"
     },
     {
         "base": "drive",
         "preterit": "drove",
-        "past": "driven"
+        "past": "driven",
+        "french": "conduire"
     },
     {
         "base": "eat",
         "preterit": "ate",
-        "past": "eaten"
+        "past": "eaten",
+        "french": "manger"
     },
     {
         "base": "fall",
         "preterit": "fell",
-        "past": "fallen"
+        "past": "fallen",
+        "french": "tomber"
     },
     {
         "base": "feel",
         "preterit": "felt",
-        "past": "felt"
+        "past": "felt",
+        "french": "sentir, ressentir"
+    },
+    {
+        "base": "feed",
+        "preterit": "fed",
+        "past": "fed",
+        "french": "nourrir"
     },
     {
         "base": "fight",
         "preterit": "fought",
-        "past": "fought"
+        "past": "fought",
+        "french": "combattre"
     },
     {
         "base": "find",
         "preterit": "found",
-        "past": "found"
+        "past": "found",
+        "french": "trouver"
     },
     {
         "base": "fly",
         "preterit": "flew",
-        "past": "flown"
+        "past": "flown",
+        "french": "voler"
     },
     {
         "base": "forbid",
         "preterit": "forbade",
-        "past": "forbidden"
+        "past": "forbidden",
+        "french": "interdire"
     },
     {
         "base": "forget",
         "preterit": "forgot",
-        "past": "forgotten"
+        "past": "forgotten",
+        "french": "oublier"
     },
     {
         "base": "freeze",
         "preterit": "froze",
-        "past": "frozen"
+        "past": "frozen",
+        "french": "geler"
     },
     {
         "base": "get",
         "preterit": "got",
-        "past": "got"
+        "past": "got",
+        "french": "obtenir, devenir"
     },
     {
         "base": "give",
         "preterit": "gave",
-        "past": "given"
+        "past": "given",
+        "french": "donner"
     },
     {
         "base": "go",
         "preterit": "went",
-        "past": "gone"
+        "past": "gone",
+        "french": "aller"
     },
     {
         "base": "grow",
         "preterit": "grew",
-        "past": "grown"
+        "past": "grown",
+        "french": "grandir, faire pousser"
     },
     {
         "base": "hang",
         "preterit": "hung",
-        "past": "hung"
+        "past": "hung",
+        "french": "accrocher"
     },
     {
         "base": "have",
         "preterit": "had",
-        "past": "had"
+        "past": "had",
+        "french": "avoir"
     },
         {
         "base": "hear",
         "preterit": "heard",
-        "past": "heard"
+        "past": "heard",
+        "french": "entendre"
     },
     {
         "base": "hide",
         "preterit": "hid",
-        "past": "hidden"
+        "past": "hidden",
+        "french": "(se) cacher"
     },
     {
         "base": "hit",
         "preterit": "hit",
-        "past": "hit"
+        "past": "hit",
+        "french": "frapper"
     },
     {
         "base": "hold",
         "preterit": "held",
-        "past": "held"
+        "past": "held",
+        "french": "tenir"
     },
     {
         "base": "hurt",
         "preterit": "hurt",
-        "past": "hurt"
+        "past": "hurt",
+        "french": "fair mal, blesser"
     },
     {
         "base": "keep",
         "preterit": "kept",
-        "past": "kept"
+        "past": "kept",
+        "french": "garder"
     },
     {
         "base": "know",
         "preterit": "knew",
-        "past": "known"
+        "past": "known",
+        "french": "savor, connaitre"
     },
     {
         "base": "lay",
         "preterit": "laid",
-        "past": "laid"
+        "past": "laid",
+        "french": "poser (à plat)"
     },
     {
         "base": "lead",
         "preterit": "led",
-        "past": "led"
+        "past": "led",
+        "french": "mener"
     },
     {
         "base": "learn",
         "preterit": "learnt",
-        "past": "learnt"
+        "past": "learnt",
+        "french": "apprendre"
     },
     {
         "base": "leave",
         "preterit": "left",
-        "past": "left"
+        "past": "left",
+        "french": "quitter, partir"
     },
     {
         "base": "lent",
         "preterit": "lend",
-        "past": "lend"
+        "past": "lend",
+        "french": "prêter"
     },
     {
         "base": "let",
         "preterit": "let",
-        "past": "let"
+        "past": "let",
+        "french": "laisser, permettre"
     },
     {
         "base": "lie",
         "preterit": "lay",
-        "past": "lain"
+        "past": "lain",
+        "french": "être allongé"
     },
     {
         "base": "lose",
         "preterit": "lost",
-        "past": "lost"
+        "past": "lost",
+        "french": "perdre"
     },
     {
         "base": "light",
         "preterit": "lit",
-        "past": "lit"
+        "past": "lit",
+        "french": "allumer, éclairer"
     },
     {
         "base": "make",
         "preterit": "made",
-        "past": "made"
+        "past": "made",
+        "french": "faire, fabriquer"
     },
     {
         "base": "mean",
         "preterit": "meant",
-        "past": "meant"
+        "past": "meant",
+        "french": "signifier, vouloir dire"
     },
     {
         "base": "meet",
         "preterit": "met",
-        "past": "met"
+        "past": "met",
+        "french": "rencontrer"
     },
     {
         "base": "pay",
         "preterit": "paid",
-        "past": "paid"
+        "past": "paid",
+        "french": "payer"
     },
     {
         "base": "put",
         "preterit": "put",
-        "past": "put"
+        "past": "put",
+        "french": "poser, mettre"
     },
     {
         "base": "read",
         "preterit": "read",
-        "past": "read"
+        "past": "read",
+        "french": "lire"
     },
     {
         "base": "ride",
         "preterit": "rode",
-        "past": "ridden"
+        "past": "ridden",
+        "french": "faire du cheval"
     },
     {
         "base": "ring",
         "preterit": "rang",
-        "past": "rung"
+        "past": "rung",
+        "french": "sonner"
     },
     {
         "base": "rise",
         "preterit": "rose",
-        "past": "risen"
+        "past": "risen",
+        "french": "s'élever, se lever (soleil)"
     },
     {
         "base": "run",
         "preterit": "ran",
-        "past": "run"
+        "past": "run",
+        "french": "courir"
     },
     {
         "base": "say",
         "preterit": "said",
-        "past": "said"
+        "past": "said",
+        "french": "dire"
     },
     {
         "base": "see",
         "preterit": "saw",
-        "past": "seen"
+        "past": "seen",
+        "french": "voir"
     },
     {
         "base": "sell",
         "preterit": "sold",
-        "past": "sold"
+        "past": "sold",
+        "french": "vendre"
     },
     {
         "base": "send",
         "preterit": "sent",
-        "past": "sent"
+        "past": "sent",
+        "french": "envoiyer"
     },
     {
         "base": "set",
         "preterit": "set",
-        "past": "set"
+        "past": "set",
+        "french": "poser, fixer, mettre"
     },
     {
         "base": "shake",
         "preterit": "shook",
-        "past": "shaken"
+        "past": "shaken",
+        "french": "secouer"
     },
     {
         "base": "shine",
         "preterit": "shone",
-        "past": "shone"
+        "past": "shone",
+        "french": "briller"
     },
     {
         "base": "shoot",
         "preterit": "shot",
-        "past": "shot"
+        "past": "shot",
+        "french": "tirer (arme à feu)"
     },
     {
         "base": "show",
         "preterit": "showed",
-        "past": "shown"
+        "past": "shown",
+        "french": "montrer"
     },
     {
         "base": "shut",
         "preterit": "shut",
-        "past": "shut"
+        "past": "shut",
+        "french": "fermer"
     },
     {
         "base": "sing",
         "preterit": "sang",
-        "past": "sung"
+        "past": "sung",
+        "french": "chanter"
     },
     {
         "base": "sit",
         "preterit": "sat",
-        "past": "sat"
+        "past": "sat",
+        "french": "être assis"
     },
     {
         "base": "sleep",
         "preterit": "slept",
-        "past": "slept"
+        "past": "slept",
+        "french": "dormir"
     },
     {
-        "base": "smel",
+        "base": "smell",
         "preterit": "smelt",
-        "past": "smelt"
+        "past": "smelt",
+        "french": "sentir (odeur)"
     },
     {
         "base": "speak",
         "preterit": "spoke",
-        "past": "spoken"
+        "past": "spoken",
+        "french": "parler"
     },
     {
         "base": "spell",
         "preterit": "spelt",
-        "past": "spelt"
+        "past": "spelt",
+        "french": "épeler"
     },
     {
         "base": "spend",
         "preterit": "spent",
-        "past": "spent"
+        "past": "spent",
+        "french": "passer du temps, dépenser"
     },
     {
         "base": "spoil",
         "preterit": "spoilt",
-        "past": "spoilt"
+        "past": "spoilt",
+        "french": "gâter"
     },
     {
         "base": "spread",
         "preterit": "spread",
-        "past": "spread"
+        "past": "spread",
+        "french": "étaler"
     },
     {
         "base": "stand",
         "preterit": "stood",
-        "past": "stood"
+        "past": "stood",
+        "french": "être debout"
     },
     {
         "base": "steal",
         "preterit": "stol",
-        "past": "stolen"
+        "past": "stolen",
+        "french": "voler (dérober)"
     },
     {
         "base": "stick",
         "preterit": "stuck",
-        "past": "stuck"
+        "past": "stuck",
+        "french": "coller"
     },
     {
         "base": "sweep",
         "preterit": "swept",
-        "past": "swept"
+        "past": "swept",
+        "french": "balayer"
     },
     {
         "base": "swim",
         "preterit": "swam",
-        "past": "swum"
+        "past": "swum",
+        "french": "nager"
     },
     {
         "base": "take",
         "preterit": "took",
-        "past": "taken"
+        "past": "taken",
+        "french": "prendre"
     },
     {
         "base": "teach",
         "preterit": "taught",
-        "past": "taught"
+        "past": "taught",
+        "french": "enseigner"
     },
     {
         "base": "tear",
         "preterit": "tore",
-        "past": "torn"
+        "past": "torn",
+        "french": "déchirer"
     },
     {
         "base": "tell",
         "preterit": "told",
-        "past": "told"
+        "past": "told",
+        "french": "dire, raconter"
     },
     {
         "base": "think",
         "preterit": "thought",
-        "past": "thought"
+        "past": "thought",
+        "french": "penser"
     },
     {
         "base": "throw",
         "preterit": "threw",
-        "past": "thrown"
+        "past": "thrown",
+        "french": "jeter"
     },
     {
         "base": "understand",
         "preterit": "unterstood",
-        "past": "unterstood"
+        "past": "unterstood",
+        "french": "comprendre"
     },
     {
         "base": "wake (up)",
         "preterit": "woke (up)",
-        "past": "woken (up)"
+        "past": "woken (up)",
+        "french": "(se) réveiller"
     },
     {
         "base": "wear",
         "preterit": "wore",
-        "past": "worn"
+        "past": "worn",
+        "french": "porter (vêtement)"
     },
     {
         "base": "win",
         "preterit": "won",
-        "past": "won"
+        "past": "won",
+        "french": "gagner"
     },
     {
         "base": "write",
         "preterit": "wrote",
-        "past": "written"
+        "past": "written",
+        "french": "écrire"
     }
 ]
