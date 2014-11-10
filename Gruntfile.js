@@ -27,7 +27,7 @@ module.exports = function(grunt) {
       main: {
           expand: true,
           cwd: 'dev/',
-          src: ['**/*.html'],
+          src: ['**/*.html', 'styles/*.css'],
           dest: ''
       }
     },
@@ -42,9 +42,6 @@ module.exports = function(grunt) {
         }
     },
     uglify:{
-      options :  {
-        mangle :  false
-      },
       main: {
         files: [
                   {
