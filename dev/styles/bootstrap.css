@@ -424,6 +424,10 @@ th {
 .glyphicon-print:before {
   content: "\e045";
 }
+.glyphicon-print {
+  font-size: 120%;
+  margin-top: 12px;
+}
 .glyphicon-camera:before {
   content: "\e046";
 }
@@ -6142,12 +6146,12 @@ button.close {
     display: none !important;
   }
 }
-.visible-print {
-  display: none !important;
+.invisible-print {
+  display: block !important;
 }
 @media print {
-  .visible-print {
-    display: block !important;
+  .invisible-print {
+    display: none !important;
   }
   table.visible-print {
     display: table;

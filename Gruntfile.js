@@ -27,7 +27,7 @@ module.exports = function(grunt) {
       main: {
           expand: true,
           cwd: 'dev/',
-          src: ['**/*.html', 'styles/*.css'],
+          src: ['**/*.html', 'styles/*.css', 'fonts/*.*'],
           dest: ''
       }
     },
