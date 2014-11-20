@@ -1,5 +1,5 @@
 angular.module("IrregularVerbs", [])
-.controller("IrregularVerbsCtrl", ['$scope', '$http', function($scope, $http) {
+.controller("IrregularVerbsCtrl", ["$scope", "$http", function($scope, $http) {
 
         $http.get("data.json").success(function(data, status, headers, config) {
 

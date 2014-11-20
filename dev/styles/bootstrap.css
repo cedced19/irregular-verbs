@@ -427,6 +427,7 @@ th {
 .glyphicon-print {
   font-size: 120%;
   margin-top: 12px;
+  margin-bottom: 12px;
 }
 .glyphicon-camera:before {
   content: "\e046";
@@ -3770,9 +3771,12 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar {
   position: relative;
-  min-height: 50px;
+  min-height: 20px;
   margin-bottom: 20px;
   border: 1px solid transparent;
+}
+.navbar-fixed-top-adapt {
+  margin-top: 150px;
 }
 @media (min-width: 768px) {
   .navbar {
@@ -5327,19 +5331,9 @@ a.list-group-item-danger.active:focus {
 .embed-responsive.embed-responsive-4by3 {
   padding-bottom: 75%;
 }
-.well {
-  min-height: 20px;
-  padding: 19px;
-  margin-bottom: 20px;
-  margin-top: 20px;
-  background-color: #34495e;
-  color: #ecf0f1;
-}
-
 .error {
     color: #e74c3c;
 }
-
 .close {
   float: right;
   font-size: 21px;
@@ -6152,6 +6146,9 @@ button.close {
 @media print {
   .invisible-print {
     display: none !important;
+  }
+  .navbar-fixed-top-adapt {
+    margin-top: 0px;
   }
   table.visible-print {
     display: table;

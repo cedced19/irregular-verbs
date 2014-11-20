@@ -10,10 +10,14 @@
         <!-- endbuild -->
     </head>
     <body ng-app="IrregularVerbs" ng-controller="IrregularVerbsCtrl">
-        <div class="container" ng-show="error != true">
-            <h1 class="invisible-print">Irregular Verbs</h1>
-            <input ng-model="search" type="text" class="form-control invisible-print" placeholder="Search">
-            <span class="glyphicon glyphicon-print invisible-print" ng-click="print()"></span>
+        <nav class="navbar navbar-default navbar-fixed-top invisible-print" role="navigation">
+          <div class="container">
+                <h1>Irregular Verbs</h1>
+                <input ng-model="search" type="text" class="form-control" placeholder="Search">
+                <span class="glyphicon glyphicon-print" ng-click="print()"></span>
+          </div>
+        </nav>
+        <div class="container navbar-fixed-top-adapt" ng-show="!error">
             <table class="table table-striped table-hover">
                 <thead>
                     <tr>
@@ -24,7 +28,7 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <tr ng-repeat="verb in verbs | filter:search | orderBy:base">
+                    <tr ng-repeat="verb in verbs | filter:search | orderBy:base" ng-click="setVerb(verb)">
                         <td>{{verb.base}}</td>
                         <td>{{verb.preterit}}</td>
                         <td>{{verb.past}}</td>
