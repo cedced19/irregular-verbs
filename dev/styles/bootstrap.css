@@ -6,6 +6,10 @@ html {
 body {
   margin: 0;
 }
+::selection {
+    color:#FFF;
+    background-color:#333;
+}
 article,
 aside,
 details,
@@ -425,6 +429,7 @@ th {
   content: "\e045";
 }
 .glyphicon-print {
+  cursor: pointer;
   font-size: 120%;
   margin-top: 12px;
   margin-bottom: 12px;
@@ -2066,7 +2071,6 @@ th {
   max-width: 100%;
   margin-bottom: 20px;
   margin-top: 20px;
-  cursor: pointer;
 }
 .table > thead > tr > th,
 .table > tbody > tr > th,
@@ -2362,12 +2366,6 @@ output {
   background-color: #fff;
   background-image: none;
   border: 1px solid #ccc;
-  border-radius: 4px;
-  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
-          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
-  -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
-       -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
-          transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
 }
 .form-control:focus {
   border-color: #66afe9;
@@ -6144,9 +6142,6 @@ button.close {
   display: block !important;
 }
 @media print {
-  .invisible-print {
-    display: none !important;
-  }
   .navbar-fixed-top-adapt {
     margin-top: 0px;
   }

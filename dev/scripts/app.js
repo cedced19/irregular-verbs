@@ -10,7 +10,5 @@ angular.module("IrregularVerbs", [])
             window.print();
         }
 
-        }).error(function(data, status, headers, config) {
-            $scope.error = true;
         });
 }]);
