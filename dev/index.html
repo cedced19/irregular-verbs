@@ -24,7 +24,7 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <tr ng-repeat="verb in verbs | filter:search | orderBy:base" ng-click="setVerb(verb)">
+                    <tr ng-repeat="verb in verbs | filter:search | orderBy:base">
                         <td>{{verb.base}}</td>
                         <td>{{verb.preterit}}</td>
                         <td>{{verb.past}}</td>
