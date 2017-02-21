@@ -25,10 +25,10 @@
                 </thead>
                 <tbody>
                     <tr ng-repeat="verb in verbs | filter:search | orderBy:base">
-                        <td>{{verb.base}}</td>
-                        <td>{{verb.preterit}}</td>
-                        <td>{{verb.past}}</td>
-                        <td>{{verb.french}}</td>
+                        <td>{{verb[0]}}</td>
+                        <td>{{verb[1]}}</td>
+                        <td>{{verb[2]}}</td>
+                        <td>{{verb[3]}}</td>
                     </tr>
                 </tbody>
             </table>

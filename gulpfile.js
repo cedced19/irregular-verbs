@@ -7,17 +7,15 @@ var gulp = require('gulp'),
     concat = require('gulp-concat'),
     uncss = require('gulp-uncss'),
     minifyCss = require('gulp-minify-css'),
+    jsonminify = require('gulp-jsonminify'),
     htmlmin = require('gulp-htmlmin');
 
 
 gulp.task('html', function () {
-    var assets = useref.assets();
 
     return gulp.src('dev/*.html')
-        .pipe(assets)
-        .pipe(gulpif('*.js', uglify()))
-        .pipe(assets.restore())
         .pipe(useref())
+        .pipe(gulpif('*.js', uglify()))
         .pipe(gulpif('*.html', htmlmin({collapseWhitespace: true})))
         .pipe(gulp.dest('./'));
 });
@@ -40,4 +38,10 @@ gulp.task('copy-fonts', function() {
         .pipe(gulp.dest('./fonts'));
 });
 
-gulp.task('default', ['css', 'copy-fonts']);
+gulp.task('minify-json', function () {
+    return gulp.src(['dev/data.json'])
+        .pipe(jsonminify())
+        .pipe(gulp.dest('./'));
+});
+
+gulp.task('default', ['css', 'copy-fonts', 'minify-json']);
